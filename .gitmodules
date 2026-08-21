@@ -1,0 +1,3 @@
+[submodule "gentoo/roles/matrix"]
+	path = gentoo/roles/matrix
+	url = git@github.com:JaxLUG/ansible-role-matrix.git
