@@ -25,17 +25,18 @@ files and plays.
 
 E.x.
 ```
-distro/
-    files/
-    host_vars/
-    plays/
-    roles/
-        role_name/
-            defults/
-            files/
-            handlers/
-            tasks/
-            templates/
+└── distro
+    ├── files/
+    ├── host_vars/
+    ├── plays/
+    └── roles/
+        └── role_name
+            ├── defaults
+            ├── files
+            ├── handlers
+            ├── tasks
+            ├── templates
+            └── vars
 ```
 
 This is an initial work-in-progress community project, anyone is
