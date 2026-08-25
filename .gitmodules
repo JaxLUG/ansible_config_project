@@ -7,3 +7,6 @@
 [submodule "gentoo/roles/ssmtp"]
 	path = gentoo/roles/ssmtp
 	url = git@github.com:JaxLUG/ansible-role-ssmtp.git
+[submodule "gentoo/roles/syslog-ng"]
+	path = gentoo/roles/syslog-ng
+	url = git@github.com:JaxLUG/ansible-role-syslog-ng.git
