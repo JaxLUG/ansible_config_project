@@ -4,3 +4,6 @@
 [submodule "gentoo/roles/common"]
 	path = gentoo/roles/common
 	url = git@github.com:JaxLUG/ansible-role-common.git
+[submodule "gentoo/roles/ssmtp"]
+	path = gentoo/roles/ssmtp
+	url = git@github.com:JaxLUG/ansible-role-ssmtp.git
