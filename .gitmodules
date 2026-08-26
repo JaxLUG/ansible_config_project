@@ -10,3 +10,6 @@
 [submodule "gentoo/roles/syslog-ng"]
 	path = gentoo/roles/syslog-ng
 	url = git@github.com:JaxLUG/ansible-role-syslog-ng.git
+[submodule "gentoo/roles/web"]
+	path = gentoo/roles/web
+	url = git@github.com:JaxLUG/ansible-role-web.git
