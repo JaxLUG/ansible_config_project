@@ -13,3 +13,6 @@
 [submodule "gentoo/roles/web"]
 	path = gentoo/roles/web
 	url = git@github.com:JaxLUG/ansible-role-web.git
+[submodule "gentoo/roles/vpn"]
+	path = gentoo/roles/vpn
+	url = git@github.com:JaxLUG/ansible-role-vpn.git
