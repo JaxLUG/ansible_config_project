@@ -22,3 +22,6 @@
 [submodule "gentoo/roles/mail"]
 	path = gentoo/roles/mail
 	url = git@github.com:JaxLUG/ansible-role-mail.git
+[submodule "gentoo/roles/firewall"]
+	path = gentoo/roles/firewall
+	url = git@github.com:JaxLUG/ansible-role-firewall.git
